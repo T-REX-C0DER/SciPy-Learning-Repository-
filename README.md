@@ -1,6 +1,11 @@
 
 # 📘 SciPy Complete Learning Guide
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue" alt="Python 3.9+">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions welcome">
+</p>
+
 ## 🔹 About This Repository
 
 This repository is created to help learners understand **SciPy** step‑by‑step with practical examples and real datasets. It is perfect for:
@@ -99,10 +104,10 @@ print(scipy.__version__)
 ## 🔹 Mini Projects Included
 
 ✔ Curve Fitting for Sales Prediction
-✔ Noise Reduction in Audio Signals
-✔ Image Blur & Edge Detection
-✔ Optimization of Cost Functions
-✔ Scientific Data Simulation
+✔ **Noise Reduction in Audio Signals:** Apply SciPy filters to clean up audio data.
+✔ **Image Blur & Edge Detection:** Use image processing modules to manipulate and analyze images.
+✔ **Optimization of Cost Functions:** Learn to find the minimum of a function, a core concept in machine learning.
+✔ **Scientific Data Simulation:** Use statistical distributions to simulate and understand data.
 
 ---
 
